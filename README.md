@@ -79,7 +79,7 @@ python path/to/file.py
 
 ## 🙌 Contributors
 
-- 👨‍💻 [Your Name](https://github.com/TRahulsingh)
+- 👨‍💻 [T RAHUL SINGH](https://github.com/TRahulsingh)
 
 Pull requests and suggestions are welcome!
 
